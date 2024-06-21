@@ -1,0 +1,44 @@
+01020051504000400000TOMATE                                             
+01020051503000499010BANANA                                             
+01020051758002199000AGULHA                                             
+01020051759002299000PALETA GADO                                        
+01020051760002299000PONTA DE PEITO                                     
+01020051761002199000COSTELA MINGA                                      
+01020051762004499000CARNE MOIDA 1°                                     
+01020051763002199000CARNE MOIDA 2°                                     
+01020051764003999000BIFE                                               
+01020051765003999000PATINHO                                            
+01020051766003999000COLCHAO DE FORA                                    
+01020051767004099000COLCHAO MOLE                                       
+01020051768003699000TATU                                               
+01020051769003899000VAZIO                                              
+01020051770003899000FRALDINHA                                          
+01020051771001999000MUSCULO                                            
+01020051772003699000COSTELA                                            
+01020051773003499000CHULETA                                            
+01020051774003999000PICANHA                                            
+01020051775003999000MAMINHA                                            
+01020051776004999000FILE MINON                                         
+01020051777000149000OSSO SEM CARNE                                     
+01020051778003999000CONTRA FILE                                        
+01020051779000699000OSSINHO DE PORCO                                   
+01020051780000899000PESINHO DE PORCO                                   
+01020051781001299000RABINHO DE PORCO                                   
+01020051782002199000CARRE                                              
+01020051783001899000PALETA PORCO                                       
+01020051784001999000PERNIL                                             
+01020051786002499000COSTELA DE PORCO                                   
+01020278985001499000GALINHA CONG C/ MIUDOS KG                          
+01020051788000999000COXA SOBRECOXA CONG NORMAL KG                      
+01020051789000899000COXA SOBRECOXA CONG C/ DORSAL INDIVIDUAL KG        
+01021789896002799000MEIO DA ASA CONG INDIV GUIBOM KG                   
+01020178949003899000CORACAO DE FRANGO CONG SEARA PCT 1KG               
+01020051792000400000ABC                                                
+01020051919001499000RABO GADO                                          
+01020051920001999000MONDONGO                                           
+01020051921001499000FIGADO GADO                                        
+01020051922001499000CORACAO GADO                                       
+01020051926004899000BACON TABLETE LETAVO                               
+01020789664004500000FRANGO CONG. S/MIUDOS 2,400 KG                     
+01020051929002800000FILE DE PEITO                                      
+01020789664001599000COXA/S.COXA TEMPERADA                              
